@@ -14,4 +14,5 @@ function sumOfEven(limit) {
     }
     return accumulator;
 }
+
 console.log(sumOfEven(4000000));
