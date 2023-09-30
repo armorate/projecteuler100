@@ -16,6 +16,5 @@ function smallestDivisibleNumber(num) {
     }
     return factors.reduce((accumulator, current) => accumulator * current);
 }
-console.time('dd');
+
 console.log(smallestDivisibleNumber(20));
-console.timeEnd('dd');
