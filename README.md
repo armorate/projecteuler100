@@ -1,1 +1,1 @@
-ProjectEuler solutions myway
+ProjectEuler Solutions
